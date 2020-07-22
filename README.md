@@ -14,7 +14,7 @@ Please note, that we forgot the true bypass switch on our front panel design. Ma
 
 The output signal of the module is somewhat less in volume than the input signal. A 2nd opamp takes care of that. A potentiometer on the front panel allows to adjust that volume.
 
-For the led, LDR combination we created a symbol and a foot print for Kicad. Both are included in this repository. Make sure to configure your Kicad to make use of them. That symbol is called FnSVibeC, the foot print is in the NilsParts.pretty lib. Since no ambient light should rech the foto resistors we used a 3d-printer to print a housing for this part. Just a hollow square box, useing black PLA. (1mm wall)
+For the led, LDR combination we created a symbol and a foot print for Kicad. Both are included in this repository. Make sure to configure your Kicad to make use of them. That symbol is called FnSVibeC, the foot print is in the NilsParts.pretty lib. Since no ambient light should reach the foto resistors we used a 3d-printer to print a housing for this part. Just a hollow square box, useing black PLA. (1mm wall)
 
 The sound of this module is just awsome, make sure to check out youtube video. A guitar pedal version will follow later.
 
